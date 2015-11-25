@@ -45,6 +45,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="local_settings.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django_oscar/local_settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="12" selection-start="36" selection-end="36" vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="726">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="tests.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_oscar/app/tests.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_oscar/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="21" selection-start="761" selection-end="761" vertical-scroll-proportion="0.59504133" vertical-offset="0" max-vertical-offset="1800">
+            <state line="24" column="22" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
               <folding />
             </state>
           </provider>
@@ -91,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/django_oscar/test/test_home_page.py" />
         <option value="$PROJECT_DIR$/django_oscar/urls.py" />
         <option value="$PROJECT_DIR$/django_oscar/app/views.py" />
         <option value="$PROJECT_DIR$/django_oscar/templates/layouts/base.html" />
@@ -107,6 +115,7 @@
         <option value="$PROJECT_DIR$/django_oscar/lib/get_data.py" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/django_oscar/settings.py" />
+        <option value="$PROJECT_DIR$/django_oscar/local_settings.py" />
       </list>
     </option>
   </component>
@@ -445,13 +454,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/django_oscar/local_settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="36" selection-end="36" vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="726">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_oscar/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="54" selection-start="242" selection-end="242" vertical-scroll-proportion="0.12396694" vertical-offset="0" max-vertical-offset="726">
@@ -515,15 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_oscar/lib/get_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="45" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_oscar/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="45" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
@@ -556,7 +549,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_oscar/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="21" selection-start="761" selection-end="761" vertical-scroll-proportion="0.59504133" vertical-offset="0" max-vertical-offset="1800">
+        <state line="24" column="22" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_oscar/lib/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="45" selection-start="756" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_oscar/local_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="36" selection-end="36" vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="726">
           <folding />
         </state>
       </provider>
