@@ -1,1 +1,1 @@
-web: gunicorn django_oskar.wsgi --log-file -
+web: gunicorn django_oscar.wsgi --log-file -
