@@ -63,19 +63,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
+            <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_oscar/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="2199" selection-end="2199" vertical-scroll-proportion="0.0" vertical-offset="1074" max-vertical-offset="1800">
+            <state line="22" column="12" selection-start="737" selection-end="737" vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="1800">
               <folding />
             </state>
           </provider>
@@ -105,8 +105,8 @@
         <option value="$PROJECT_DIR$/django_oscar/templates/partitions/issues_list.html" />
         <option value="$PROJECT_DIR$/django_oscar/templates/partitions/contributors_list.html" />
         <option value="$PROJECT_DIR$/django_oscar/lib/get_data.py" />
-        <option value="$PROJECT_DIR$/django_oscar/settings.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/django_oscar/settings.py" />
       </list>
     </option>
   </component>
@@ -533,13 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_oscar/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="2199" selection-end="2199" vertical-scroll-proportion="0.0" vertical-offset="1074" max-vertical-offset="1800">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_oscar/app/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="51" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
@@ -557,6 +550,13 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_oscar/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="737" selection-end="737" vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="1800">
           <folding />
         </state>
       </provider>
