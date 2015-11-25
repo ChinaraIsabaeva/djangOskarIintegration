@@ -75,7 +75,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_oscar/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="738" selection-end="738" vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="1800">
+            <state line="24" column="21" selection-start="761" selection-end="761" vertical-scroll-proportion="0.59504133" vertical-offset="0" max-vertical-offset="1800">
               <folding />
             </state>
           </provider>
@@ -556,7 +556,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_oscar/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="738" selection-end="738" vertical-scroll-proportion="0.54545456" vertical-offset="0" max-vertical-offset="1800">
+        <state line="24" column="21" selection-start="761" selection-end="761" vertical-scroll-proportion="0.59504133" vertical-offset="0" max-vertical-offset="1800">
           <folding />
         </state>
       </provider>
