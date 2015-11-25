@@ -1,0 +1,1 @@
+web: gunicorn django_oskar.wsgi --log-file -

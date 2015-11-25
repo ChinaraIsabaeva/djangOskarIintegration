@@ -1,0 +1,17 @@
+<div class="col-md-5">
+    <h4>Repo's Owner info</h4>
+    <table class="table">
+        <tr>
+            <th class="col-md-4">Owner name:</th>
+            <td class="col-md-8">{{ user.login }}</td>
+        </tr>
+        <tr>
+            <th class="col-md-4">Owner type:</th>
+            <td class="col-md-8">{{ user.type }}</td>
+        </tr>
+        <tr>
+            <th class="col-md-4">Owner github url:</th>
+            <td class="col-md-8"><a href="{{ user.html_url }}" target="_blank">{{ user.html_url }}</a></td>
+        </tr>
+    </table>
+</div>

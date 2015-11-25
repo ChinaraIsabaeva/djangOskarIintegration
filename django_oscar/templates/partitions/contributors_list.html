@@ -1,0 +1,17 @@
+<div class="col-md-4">
+    <h4>List of last 100 contributors</h4>
+    <table class="table">
+        <tr>
+            <th class="col-md-3">Contributor name</th>
+            <th class="col-md-3">Number of contributions</th>
+            <th class="col-md-6">Contributor github url</th>
+        </tr>
+        {% for contributor in contributors_list %}
+        <tr>
+            <td class="col-md-3">{{ contributor.login }}</td>
+            <td class="col-md-3">{{ contributor.contributions }}</td>
+            <td class="col-md-6"><a href="{{ contributor.html_url }}" target="_blank">{{ contributor.html_url }}</a></td>
+            {% endfor %}
+        </tr>
+    </table>
+</div>

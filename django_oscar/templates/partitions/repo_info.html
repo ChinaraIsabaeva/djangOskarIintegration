@@ -1,0 +1,21 @@
+<div class="col-md-7">
+    <h4>Repo's info</h4>
+    <table class="table">
+        <tr>
+            <th>Repo name:</th>
+            <td>{{ repo.full_name }}</td>
+        </tr>
+        <tr>
+            <th>Repo github url:</th>
+            <td><a href="{{ repo.html_url }}" target="_blank">{{ repo.html_url }}</a></td>
+        </tr>
+        <tr>
+            <th>Number of forks:</th>
+            <td>{{ repo.forks }}</td>
+        </tr>
+        <tr>
+            <th>Number of open issues including open PR:</th>
+            <td>{{ repo.open_issues }}</td>
+        </tr>
+    </table>
+</div>

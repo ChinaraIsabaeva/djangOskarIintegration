@@ -1,0 +1,12 @@
+<div class="col-md-4">
+    <h4>List of last 100 open issues</h4>
+    <ul class="list-group">
+        {% for item in issues_list %}
+            <li class="list-group-item">
+                <h5>{{ item.title }}</h5>
+                <a href="{{ item.html_url }}" target="_blank">{{ item.html_url }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+</div>
